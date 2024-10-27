@@ -7,13 +7,14 @@
 
 Welcome to my GitHub page!  I am Jin and I am a student from the University of Edinburgh. I'm from China, living in Edinburgh!
 
-
+<img align="right" alt="img" src="https://github.com/King-141319/King-141319/blob/main/img/b6f7898e234e43192287b62568bc796.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
 
 - First-year in Artificial Intelligence undergraduate degree
 - Exploring Arch Linux, BTW
+- Learning Photography
 
 
 
