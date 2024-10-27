@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/King-141319)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kingjin141319@gmail.com)
-[![Blog](http://www.kingjinsworld.site/wp-content/uploads/2024/09/cropped-DALL·E-2024-09-21-23.58.15-A-simple-abstract-icon-representing-learning-and-growth-for-a-personal-website.-The-icon-should-have-clean-minimalistic-lines-with-neutral-colors-p-1.webp)](kingjinsworld.site)
+[![Blog](http://www.kingjinsworld.site/wp-content/uploads/2024/09/cropped-DALL·E-2024-09-21-23.58.15-A-simple-abstract-icon-representing-learning-and-growth-for-a-personal-website.-The-icon-should-have-clean-minimalistic-lines-with-neutral-colors-p-1.webp)](www.kingjinsworld.site)
 
 Welcome to my GitHub page!  I am Jin and I am a student from the University of Edinburgh. I'm from China, living in Edinburgh!
 
