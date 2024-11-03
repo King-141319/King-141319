@@ -23,8 +23,8 @@ Welcome to my GitHub page!  I am Jin and I am a student from the University of E
 
 - Waking up earlier to make good use of the day
 - Coding at least 3 hours a day
-- Exercising  days a week
-- Improving my CV with some education apart from university
+- Exercising 2 days a week
+- A medium leetcode a week
 
 
 
